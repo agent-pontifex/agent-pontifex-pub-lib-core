@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "repository": "agent-pontifex/agent-pontifex-pub-lib-core",
+  "status": "noncanonical_redirect",
+  "canonicalRepository": "agent-pontifex/ap-pub-lib-core",
+  "canonicalBranch": "main",
+  "decision": "duplicate-fold-2026-09-15",
+  "decidedAt": "2026-09-15",
+  "publishingAllowed": false,
+  "sourceChangesAllowed": false
+}
